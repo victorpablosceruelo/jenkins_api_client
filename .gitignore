@@ -1,4 +1,6 @@
 
+jenkins_api_client-*.*.gem
+
 # rbenv
 .ruby-version
 .ruby-gemset
